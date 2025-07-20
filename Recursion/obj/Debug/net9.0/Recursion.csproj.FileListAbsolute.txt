@@ -1,0 +1,14 @@
+C:\Coding\Family Manager\Recursion\bin\Debug\net9.0\Recursion.exe
+C:\Coding\Family Manager\Recursion\bin\Debug\net9.0\Recursion.deps.json
+C:\Coding\Family Manager\Recursion\bin\Debug\net9.0\Recursion.runtimeconfig.json
+C:\Coding\Family Manager\Recursion\bin\Debug\net9.0\Recursion.dll
+C:\Coding\Family Manager\Recursion\bin\Debug\net9.0\Recursion.pdb
+C:\Coding\Family Manager\Recursion\obj\Debug\net9.0\Recursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coding\Family Manager\Recursion\obj\Debug\net9.0\Recursion.AssemblyInfoInputs.cache
+C:\Coding\Family Manager\Recursion\obj\Debug\net9.0\Recursion.AssemblyInfo.cs
+C:\Coding\Family Manager\Recursion\obj\Debug\net9.0\Recursion.csproj.CoreCompileInputs.cache
+C:\Coding\Family Manager\Recursion\obj\Debug\net9.0\Recursion.dll
+C:\Coding\Family Manager\Recursion\obj\Debug\net9.0\refint\Recursion.dll
+C:\Coding\Family Manager\Recursion\obj\Debug\net9.0\Recursion.pdb
+C:\Coding\Family Manager\Recursion\obj\Debug\net9.0\Recursion.genruntimeconfig.cache
+C:\Coding\Family Manager\Recursion\obj\Debug\net9.0\ref\Recursion.dll
